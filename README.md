@@ -1,6 +1,10 @@
 # Hi, I'm Alex : ]
 # Here is more about me:
-<br>I'm a a Software Engineering Student from Mexico City, currently pursuing my Software Engineering degree at UVEG! <br><br> *🔭 I'm currently working on a project for my ecommerce bussiness!<br><br> *👯 I'm looking to collaborate on open source projects<br><br> *📫 How to reach me alex.cl3190@gmail.com<br>
+<br>I'm a a Software Engineering Student from Mexico City, currently pursuing my Software Engineering degree at UVEG! <br><br> 
+
+* 🔭 I'm currently working on a project for my ecommerce bussiness!
+* 👯 I'm looking to collaborate on open source projects
+* 📫 How to reach me alex.cl3190@gmail.com<br>
 
 
 ## 🌐 Socials:
