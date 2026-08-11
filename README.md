@@ -7,7 +7,7 @@
 
 * 🔭 I'm currently working on a project for my ecommerce bussiness!
 * 👯 I'm looking to collaborate on open source projects so please feel free to reach out to me
-* 📫 How to reach me? send me an email to alex.cl3190@gmail.com<br>
+* 📫 How to reach me? send me an email to alex.cl3190@gmail.com or 25000723@es.uveg.edu.mx<br>
 
 
 ## 🌐 Socials:
