@@ -3,9 +3,11 @@
 
 ### I'm a a Software Engineering Student from Mexico City, currently pursuing my Software Engineering degree at UVEG! Right now, I'm focusing on building a solid foundation in computer science, improving my coding skills, and working on practical projects. <br>
 
+> Current activity:
+
 * 🔭 I'm currently working on a project for my ecommerce bussiness!
-* 👯 I'm looking to collaborate on open source projects
-* 📫 How to reach me alex.cl3190@gmail.com<br>
+* 👯 I'm looking to collaborate on open source projects so please feel free to reach out to me
+* 📫 How to reach me? send me an email to alex.cl3190@gmail.com<br>
 
 
 ## 🌐 Socials:
