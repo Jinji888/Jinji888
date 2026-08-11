@@ -19,8 +19,8 @@
 ![](https://streak-stats.demolab.com/?user=jinji888&theme=blue_navy&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jinji888&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Developer quote of the day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinji888&label=Profile%20views&color=0e75b6&style=flat" alt="jinji888" /> </p>
