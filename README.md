@@ -1,7 +1,7 @@
 # Hi, I'm Alex : ]
 # More About Me:
 
-### I'm a a Software Engineering Student from Mexico City, currently pursuing my Engineering degree at UVEG! Right now, I'm focusing on building a solid foundation in computer science, improving my coding skills, and working on practical projects. <br>
+### I'm a a Software Engineering Student from Mexico City, currently pursuing my Engineering degree at UVEG! Right now, I'm focusing on building a solid foundation in programming concepts, improving my coding skills, and working on practical projects. <br>
 
 > Current activity:
 
