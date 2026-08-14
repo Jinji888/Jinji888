@@ -1,13 +1,13 @@
 # Hi, I'm Alex : ]
 # More About Me:
 
-### I'm a Software Engineering Student from Mexico City, currently pursuing my Engineering degree at UVEG! 
+### I'm a Software Engineering Undergrad from Mexico City, currently pursuing my Engineering degree at UVEG! 
 ### Right now, I'm focusing on building a solid foundation in programming concepts, improving my coding skills, and working on practical projects. <br>
 
 > Current activity:
 
-* 🔭 I'm currently working on a project for my ecommerce bussiness!
-* 👯 I'm looking to collaborate on open source projects so please feel free to reach out to me.
+* ⚒️ I'm currently working on a project for my ecommerce business!
+* ⚙️ I'm looking to collaborate on open source projects.
 * 📫 How to reach me? send me an email to alex.cl3190@gmail.com or 25000723@es.uveg.edu.mx<br>
 
 
