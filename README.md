@@ -11,7 +11,7 @@
 * 📫 How to reach me? send me an email to alex.cl3190@gmail.com or 25000723@es.uveg.edu.mx<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/jinji888) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-c-499aa9253/)
 
 # 💻 Tech Stack:
