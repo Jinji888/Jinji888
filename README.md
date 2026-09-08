@@ -1,5 +1,5 @@
 # Hi, I'm Alex : ]
-# More About Me:
+## More About Me:
 
 ### I'm a Software Engineering Undergrad from Mexico City, currently pursuing my Engineering degree at UVEG! 
 ### Right now, I'm focusing on building a solid foundation in programming concepts, improving my coding skills, and working on practical projects. <br>
