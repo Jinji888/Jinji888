@@ -7,7 +7,7 @@
 > Current activity:
 
 * ⚒️ I'm currently working on several projects for my e-commerce business!
-* ⚙️ I'm looking to collaborate on open-source projects.
+* ⚙️ I'm looking to collaborate on open-source projects and to be part of an internship where I can apply my skills and improve.
 * 📫 How to reach me? Send me an email at 25000723@es.uveg.edu.mx<br>
 
 
